@@ -60,7 +60,7 @@ Run the Docker container:
 docker-compose up
 ```
 
-The application will now be available at `http://localhost:8080`.
+The application will now be available at `https://localhost:8080` or `http://localhost:8081`.
 
 ---
 
