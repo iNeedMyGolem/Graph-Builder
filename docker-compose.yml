@@ -8,4 +8,4 @@ services:
     volumes:
       - .:/app
     command: |
-      sh -c "yarn run next start & echo 'Docker image is serving the application at http://localhost:8080' && tail -f /dev/null"
+      sh -c "yarn install && yarn build && yarn start & echo 'Docker image is serving the application at http://localhost:8080' && tail -f /dev/null"
