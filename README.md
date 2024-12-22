@@ -61,6 +61,7 @@ docker-compose up
 ```
 
 The application will now be available at `https://localhost:8080` or `http://localhost:8081`.
+
 This application uses a self-signed SSL certificate for HTTPS support.
 ---
 
