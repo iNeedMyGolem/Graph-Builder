@@ -26,8 +26,8 @@ Before running the application, ensure that you have the following installed on 
 
 ### Clone the Repository
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/iNeedMyGolem/Graph-Builder.git
+cd Graph-Builder
 ```
 
 ### Install Dependencies
