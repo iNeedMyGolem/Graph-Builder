@@ -84,16 +84,3 @@ Builds the application for production.
 yarn start
 ```
 Runs the application in production mode. Ensure that you have built the application first.
-
-
-## Directory Structure
-```
-├── components         # Reusable React components
-├── pages              # Next.js page components
-├── public             # Static assets
-├── styles             # CSS and styling files
-├── utils              # Utility functions
-├── Dockerfile         # Docker configuration
-├── package.json       # Project metadata and dependencies
-└── README.md          # Documentation
-```
